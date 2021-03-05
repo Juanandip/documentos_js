@@ -13,7 +13,6 @@ clases javascript
 <li>VIDEO 10 poo1.html</li>
 <li>VIDEO 11 condicional1.html</li>
 <li>VIDEO 12 EN PROCESO</li>
-<li>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</li>
 <li>VIDEO 13</li>
-<li>VIDEO 14</li>
 <ol>
+<h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
