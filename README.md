@@ -1,5 +1,5 @@
 # documentos_js
-clases javascript
+<h1>clases javascript</h1>
 
 VIDEO 1 sin archivo
 VIDEO 2 primer_codigo.html, ejemplos.js(externo)
