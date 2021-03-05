@@ -1,31 +1,32 @@
 # documentos_js
 clases javascript
+<ol>
+<li>VIDEO 1 sin archivo</li>
 
-<b>VIDEO 1 sin archivo</b>
+<li>VIDEO 2 primer_codigo.html, ejemplos.js(externo)</li>
 
-VIDEO 2 primer_codigo.html, ejemplos.js(externo)
+<li>VIDEO 3 ejemplo1.html, css, imgs, Jquery</li>
 
-VIDEO 3 ejemplo1.html, css, imgs, Jquery
+<li>VIDEO 4 declaracion_variable.html</li>
 
-VIDEO 4 declaracion_variable.html
+<li>VIDEO 5 declaracion_variable.html</li>
 
-VIDEO 5 declaracion_variable.html
+<li>VIDEO 6 ejemplo2.html, css/micss2.css</li>
 
-VIDEO 6 ejemplo2.html, css/micss2.css
+<li>VIDEO 7 arrays.html, css/micss.css</li>
 
-VIDEO 7 arrays.html, css/micss.css
+<li>VIDEO 8 arrays.html</li>
 
-VIDEO 8 arrays.html
+<li>VIDEO 9 poo1.html</li>
 
-VIDEO 9 poo1.html
+<li>VIDEO 10 poo1.html</li>
 
-VIDEO 10 poo1.html
+<li>VIDEO 11 condicional1.html</li>
 
-VIDEO 11 condicional1.html
+<li>VIDEO 12 EN PROCESO</li>
 
-VIDEO 12 EN PROCESO
+<li>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</li>
 
-TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT
-
-VIDEO 13
-VIDEO 14
+<li>VIDEO 13</li>
+<li>VIDEO 14</li>
+<ol>
