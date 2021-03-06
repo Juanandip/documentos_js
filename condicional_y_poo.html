@@ -50,7 +50,22 @@ table{
 	var cuerpo=document.getElementById("cuerpo");
 	var colorWeb=prompt("Introduce el color de fondo. Azul/Verde/Rojo").toLowerCase();
 	
+	if(colorWeb!="azul" && colorWeb!="verde" && colorWeb!="rojo"){
+		alert("Ese color no está contemplado");
+	}
+	else if(colorWeb=="azul"){
+		cuerpo.style.backgroundColor="blue";
+	}
+	else if(colorWeb=="verde"){
+		cuerpo.style.backgroundColor="green";
+	}
+	else{
+		cuerpo.style.backgroundColor="red";
+	}
 	
+	
+	
+	/*  Primera parte del video
 	if(colorWeb=="azul"){
 		cuerpo.style.backgroundColor="blue";
 	}
@@ -64,6 +79,7 @@ table{
 	else{
 		aler("Ese color no está contemplado");
 		}
+	*/
 
 </script>
 
