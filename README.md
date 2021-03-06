@@ -1,6 +1,6 @@
 # documentos_js
 clases javascript
-<ol>
+<ul>
 <li>VIDEO 1 sin archivo</li>
 <li>VIDEO 2 primer_codigo.html, ejemplos.js(externo)</li>
 <li>VIDEO 3 ejemplo1.html, css, imgs, Jquery</li>
@@ -13,7 +13,6 @@ clases javascript
 <li>VIDEO 10 poo1.html</li>
 <li>VIDEO 11 condicional1.html</li>
 <li>VIDEO 12 EN PROCESO</li>
-<li>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</li>
 <li>VIDEO 13</li>
-<li>VIDEO 14</li>
-<ol>
+<ul>
+<h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
