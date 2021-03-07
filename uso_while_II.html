@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin título</title>
+
+<style>
+	#contenedor{
+		width:25%;
+		background-color:#FFC;
+		margin:auto;
+		padding:15px;
+	}
+</style>
+
+
+<script>
+
+	var nombre, edad, poblacion;
+	
+	nombre=prompt("Introduce tu nombre por favor","Nombre...");
+		while(!isNaN(nombre)){
+			nombre=prompt("Introduce un nombre valido","Nombre...");
+		}
+	
+	edad=prompt("Introduce tu edad, por favor","Edad...");
+	
+		while(edad<=0 || edad>105 || isNaN(edad)){
+			edad=prompt("Introduce una edad válida","Edad...");
+		}
+	
+	
+	
+	poblacion=prompt("Introduce población"),"Población...";
+	while(!isNaN(poblacion)){
+			poblacion=prompt("Introduce una poblacion valida"),"Población...";
+		}
+
+
+</script>
+
+
+</head>
+
+<body>
+
+	<div id="contenedor">
+    	<p>Nombre:
+        <script>document.write(nombre)</script>
+        </p>
+        <p>Edad:
+        <script>document.write(edad)</script>
+        </p>
+        <p>Población:
+        <script>document.write(poblacion)</script>
+        </p>
+    </div>
+
+
+</body>
+</html>
