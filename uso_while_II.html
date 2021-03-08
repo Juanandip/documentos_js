@@ -16,6 +16,7 @@
 
 <script>
 
+/*----------------------------VIDEO-16-----------------------------------
 	var nombre, edad, poblacion;
 	
 	nombre=prompt("Introduce tu nombre por favor","Nombre...");
@@ -27,15 +28,32 @@
 	
 		while(edad<=0 || edad>105 || isNaN(edad)){
 			edad=prompt("Introduce una edad válida","Edad...");
-		}
-	
-	
+		}	
 	
 	poblacion=prompt("Introduce población"),"Población...";
 	while(!isNaN(poblacion)){
 			poblacion=prompt("Introduce una poblacion valida"),"Población...";
-		}
-
+		}*/
+/*----------------------------VIDEO-17-------------------------------------*/
+	var nombre, edad, poblacion;
+	
+	//nombre=prompt("Introduce tu nombre por favor","Nombre...");
+	
+	do{
+		nombre=prompt("Introduce un nombre valido","Nombre...");
+	}while(!isNaN(nombre))
+	
+	edad=prompt("Introduce tu edad, por favor","Edad...");
+	
+	while(edad<=0 || edad>105 || isNaN(edad)){
+		edad=prompt("Introduce una edad válida","Edad...");
+	}	
+	
+	//poblacion=prompt("Introduce población"),"Población...";
+	
+	do{
+		poblacion=prompt("Introduce una poblacion valida"),"Población...";
+	}while(!isNaN(poblacion))
 
 </script>
 

@@ -13,6 +13,12 @@ clases javascript
 <li>VIDEO 10 poo1.html</li>
 <li>VIDEO 11 condicional1.html</li>
 <li>VIDEO 12 condicional1.html, condicional_y_poo.html</li>
-<li>VIDEO 13</li>
+<li>VIDEO 13 condicional_y_poo.html, calculadora.html</li>
+<li>VIDEO 14 calculadora.html</li>
+<li>VIDEO 15 uso_while_I.html, uso_while_II.html</li>
+<li>VIDEO 16 uso_while_II.html</li>
+<li>VIDEO 17 uso_while_II.html, aleatorio.html</li> 
+<li>VIDEO 18 aleatorio.html</li> 
+<li>VIDEO 19</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
