@@ -19,6 +19,7 @@ clases javascript
 <li>VIDEO 16 uso_while_II.html</li>
 <li>VIDEO 17 uso_while_II.html, aleatorio.html</li> 
 <li>VIDEO 18 aleatorio.html</li> 
-<li>VIDEO 19</li>
+<li>VIDEO 19 uso_for.html</li>
+<li>VIDEO 20 uso_for.html</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
