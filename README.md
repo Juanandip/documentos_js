@@ -21,5 +21,6 @@ clases javascript
 <li>VIDEO 18 aleatorio.html</li> 
 <li>VIDEO 19 uso_for.html</li>
 <li>VIDEO 20 uso_for.html</li>
+<li>VIDEO 21</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
