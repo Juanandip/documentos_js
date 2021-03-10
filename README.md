@@ -28,7 +28,7 @@ clases javascript
 <li>VIDEO 25 calculadora_elementos.html</li>
 <li>VIDEO 26 calculadora_elementos.html</li>
 <li>VIDEO 27 calculadora_elementos.html</li>
-<li>VIDEO 28</li>
+<li>VIDEO 28 calculadora_elementos.html</li>
 <li>VIDEO 29</li>
 <li>VIDEO 30</li>
 <li>VIDEO 31</li>
