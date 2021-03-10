@@ -24,10 +24,10 @@ clases javascript
 <li>VIDEO 21 funciones_I.html</li>
 <li>VIDEO 22 funciones_argumentos.html</li>
 <li>VIDEO 23 calculadora_arcaica.html</li>
-<li>VIDEO 24</li>
-<li>VIDEO 25</li>
-<li>VIDEO 26</li>
-<li>VIDEO 27</li>
+<li>VIDEO 24 ejemplo_evento_2.html</li>
+<li>VIDEO 25 calculadora_elementos.html</li>
+<li>VIDEO 26 calculadora_elementos.html</li>
+<li>VIDEO 27 calculadora_elementos.html</li>
 <li>VIDEO 28</li>
 <li>VIDEO 29</li>
 <li>VIDEO 30</li>
