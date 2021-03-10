@@ -21,6 +21,35 @@ clases javascript
 <li>VIDEO 18 aleatorio.html</li> 
 <li>VIDEO 19 uso_for.html</li>
 <li>VIDEO 20 uso_for.html</li>
-<li>VIDEO 21</li>
+<li>VIDEO 21 funciones_I.html</li>
+<li>VIDEO 22 funciones_argumentos.html</li>
+<li>VIDEO 23 calculadora_arcaica.html</li>
+<li>VIDEO 24</li>
+<li>VIDEO 25</li>
+<li>VIDEO 26</li>
+<li>VIDEO 27</li>
+<li>VIDEO 28</li>
+<li>VIDEO 29</li>
+<li>VIDEO 30</li>
+<li>VIDEO 31</li>
+<li>VIDEO 32</li>
+<li>VIDEO 33</li>
+<li>VIDEO 34</li>
+<li>VIDEO 35</li>
+<li>VIDEO 36</li>
+<li>VIDEO 37</li>
+<li>VIDEO 38</li>
+<li>VIDEO 39</li>
+<li>VIDEO 40</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
