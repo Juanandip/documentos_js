@@ -32,7 +32,7 @@ clases javascript
 <li>VIDEO 29 TEORIA</li>
 <li>VIDEO 30 TEORIA</li>
 <li>VIDEO 31 jquery_loops.html, jquery_encadenadas.html</li>
-<li>VIDEO 32</li>
+<li>VIDEO 32 prueba_agregar_contenido.html</li>
 <li>VIDEO 33</li>
 <li>VIDEO 34</li>
 <li>VIDEO 35</li>

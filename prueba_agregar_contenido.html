@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>video 32</title>
+
+<style>
+
+	.micontenedor{
+		background-color:#0F0;
+	}
+
+</style>
+
+
+<script src="Jquery/jquery-1.11.1.js"></script>
+
+<!--------------------------PRIMERA-PARTE-DEL-VIDEO---------------------------->
+<script>
+
+	$(document).ready(function() {
+        
+		//muestra todo el contenido denro de errores incluido etiqueta <h2>
+		//alert($("#errores").html());
+		
+		//muestra los el contenido dentro de errores/h2
+		//alert($("#errores h2").html());
+		
+		//Sustituye las etiquetas y el contenido dentro de errores
+		//$("#errores").html("<p> Hay errores en el formulario</p>");
+		
+		//
+		$("#errores h2").text("Hay errores en el formulario");
+		
+		//Agrega contenido dentro de del contenedor "errores" y despues del contenido existente
+		//$("#errores").append("<p> Hay errores en el formulario</p>");
+		
+		//Agrega contenido dentro de del contenedor "errores" y antes del contenido existente
+		//$("#errores").prepend("<p> Hay errores en el formulario</p>");
+		
+		//Agrega contenido fuera y antes del contenedor 
+		//$("#errores").before("<p> Hay errores en el formulario</p>");
+		
+		//Agrega contenido fuera y despues del contenedor
+		//$("#errores").after("<p> Hay errores en el formulario</p>");
+		
+		
+    });
+
+</script>
+
+<!--------------------------SEGUNDA-PARTE-DEL-VIDEO---------------------------->
+
+<script>
+
+	function validar(){
+		
+		var n_usuario=document.getElementById("usuario").value;
+		
+		if(n_usuario==""){
+			$("#usuario").after("Rellena este campo, por favor");
+		}
+		
+		
+	}
+
+</script>
+
+
+
+
+</head>
+
+<body>
+
+<!--------------------------PRIMERA-PARTE-DEL-VIDEO---------------------------->
+<!--<div id="contenedor">
+	<div id="errores" class="micontenedor">
+    	<h2>Errores</h2>
+    </div>
+</div>
+-->
+
+
+<!--------------------------SEGUNDA-PARTE-DEL-VIDEO---------------------------->
+
+<form action="" method="get">
+
+    <input name="" type="text" id="usuario"> <br/>
+    <input name="" type="text" id="nombre"> <br/>
+    <input name="" type="text" id="apellido"> <br/>
+    <input type="button" value="Dale" onclick="validar()" />
+
+</form>
+
+
+</body>
+</html>
