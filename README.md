@@ -29,9 +29,9 @@ clases javascript
 <li>VIDEO 26 calculadora_elementos.html</li>
 <li>VIDEO 27 calculadora_elementos.html</li>
 <li>VIDEO 28 calculadora_elementos.html</li>
-<li>VIDEO 29</li>
-<li>VIDEO 30</li>
-<li>VIDEO 31</li>
+<li>VIDEO 29 TEORIA</li>
+<li>VIDEO 30 TEORIA</li>
+<li>VIDEO 31 jquery_loops.html, jquery_encadenadas.html</li>
 <li>VIDEO 32</li>
 <li>VIDEO 33</li>
 <li>VIDEO 34</li>

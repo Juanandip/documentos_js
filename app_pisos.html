@@ -3,40 +3,51 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Documento sin título</title>
-<script>
 
- var flat=["BQ1","BQ2","BQ3","BQ4","BQ5"];
- var rooms=[1,2,4,5,6,7,8,9,10];
- 
-	for(var iflat=0;iflat<flat.length;iflat++){
-		
-		//document.write(flat[iflat]+ " -> ");
-
-		for(var irooms=0;irooms<rooms.length;irooms++){
-			var hab
-			//document.write(rooms[irooms]+ "  ");
-			
-		}
-		//document.write("<br/>");			
-	}
-
-</script>
 <p>---------------------------------------------------------------</p>
 
 <script>
 
-var oroom = {
-	bloque: " ", 
-	numero: " ",
-	estado: " "
-};
-
-
-
+	function cambiar_estado(celda){
+		
+		if(celda.style.backgroundColor=="green"){
+			console.log("Habitacion sucia 2");
+			celda.style.backgroundColor="red";
+		}
+		else if(celda.style.backgroundColor=="red"){
+			console.log("Habitacion vacia 0");
+			celda.style.backgroundColor="white";
+		}
+		else{
+			console.log("Habitacion Limpia 1");
+			celda.style.backgroundColor="green";
+		}
+		
+		//celda.style.backgroundColor="green";
+	}
+	
 </script>
 
 </head>
 
 <body>
+
+
+<table width=50% align="center" border="1">
+<tr>
+   <td bgcolor="white" id="celda1" onclick="cambiar_estado(this)">101</td>
+</tr>
+<tr>
+   <td bgcolor="white" id="celda2" onclick="cambiar_estado(this)">102</td>
+</tr>
+
+<tr>
+   <td bgcolor="white" id="celda3" onclick="cambiar_estado(this)">103</td>
+</tr>
+
+</table>
+
+
+<p><b>Orden:</b> Blanco 0 - verde 1 - rojo 2</p>
 </body>
 </html>
