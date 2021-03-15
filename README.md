@@ -33,9 +33,9 @@ clases javascript
 <li>VIDEO 30 TEORIA</li>
 <li>VIDEO 31 jquery_loops.html, jquery_encadenadas.html</li>
 <li>VIDEO 32 prueba_agregar_contenido.html</li>
-<li>VIDEO 33</li>
-<li>VIDEO 34</li>
-<li>VIDEO 35</li>
+<li>VIDEO 33 remover_reemplazar.html</li>
+<li>VIDEO 34 remover_reemplazar.html</li>
+<li>VIDEO 35 Leyendo_atributos_b.html</li>
 <li>VIDEO 36</li>
 <li>VIDEO 37</li>
 <li>VIDEO 38</li>
