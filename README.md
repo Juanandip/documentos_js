@@ -38,18 +38,18 @@ clases javascript
 <li>VIDEO 35 Leyendo_atributos_b.html</li>
 <li>VIDEO 36 Leyendo_atributos_b.html</li>
 <li>VIDEO 37 modificando_css.html</li>
-<li>VIDEO 38</li>
+<li>VIDEO 38 modificando_css2.html</li>
 <li>VIDEO 39</li>
 <li>VIDEO 40</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>VIDEO 41</li>
+<li>VIDEO 42</li>
+<li>VIDEO 43</li>
+<li>VIDEO 44</li>
+<li>VIDEO 45</li>
+<li>VIDEO 46</li>
+<li>VIDEO 47</li>
+<li>VIDEO 48</li>
+<li>VIDEO 49</li>
+<li>VIDEO 50</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
