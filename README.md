@@ -36,8 +36,8 @@ clases javascript
 <li>VIDEO 33 remover_reemplazar.html</li>
 <li>VIDEO 34 remover_reemplazar.html</li>
 <li>VIDEO 35 Leyendo_atributos_b.html</li>
-<li>VIDEO 36</li>
-<li>VIDEO 37</li>
+<li>VIDEO 36 Leyendo_atributos_b.html</li>
+<li>VIDEO 37 modificando_css.html</li>
 <li>VIDEO 38</li>
 <li>VIDEO 39</li>
 <li>VIDEO 40</li>
