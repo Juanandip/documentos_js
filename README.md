@@ -39,8 +39,8 @@ clases javascript
 <li>VIDEO 36 Leyendo_atributos_b.html</li>
 <li>VIDEO 37 modificando_css.html</li>
 <li>VIDEO 38 modificando_css2.html</li>
-<li>VIDEO 39</li>
-<li>VIDEO 40</li>
+<li>VIDEO 39 ejemploattr.html, cambiando_atributos_html.html</li>
+<li>VIDEO 40 cambiando_atributos2.html</li>
 <li>VIDEO 41</li>
 <li>VIDEO 42</li>
 <li>VIDEO 43</li>
