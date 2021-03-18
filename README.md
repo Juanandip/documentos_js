@@ -41,9 +41,9 @@ clases javascript
 <li>VIDEO 38 modificando_css2.html</li>
 <li>VIDEO 39 ejemploattr.html, cambiando_atributos_html.html</li>
 <li>VIDEO 40 cambiando_atributos2.html</li>
-<li>VIDEO 41</li>
-<li>VIDEO 42</li>
-<li>VIDEO 43</li>
+<li>VIDEO 41 prueba_each.html, Prueba_each2.html</li>
+<li>VIDEO 42 ejemplo_eventos.html</li>
+<li>VIDEO 43 evento_hover.html</li>
 <li>VIDEO 44</li>
 <li>VIDEO 45</li>
 <li>VIDEO 46</li>
