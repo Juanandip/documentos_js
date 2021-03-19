@@ -44,9 +44,9 @@ clases javascript
 <li>VIDEO 41 prueba_each.html, Prueba_each2.html</li>
 <li>VIDEO 42 ejemplo_eventos.html</li>
 <li>VIDEO 43 evento_hover.html</li>
-<li>VIDEO 44</li>
-<li>VIDEO 45</li>
-<li>VIDEO 46</li>
+<li>VIDEO 44 evento_toggle.html</li>
+<li>VIDEO 45 faq.html</li>
+<li>VIDEO 46 funcion_bind.html</li>
 <li>VIDEO 47</li>
 <li>VIDEO 48</li>
 <li>VIDEO 49</li>
