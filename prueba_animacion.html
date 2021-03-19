@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>video 48</title>
+<style>
+
+img{
+	opacity:0.5;
+}
+
+
+</style>
+<script src="Jquery/jquery-1.6.3.min.js"></script>
+<script>
+
+$(document).ready(function() {
+	
+	//-------PRIMERA-PARTE-VIDEO-48----
+	/*$("#imagen").click(function() {
+		
+			$(this).animate(
+			{
+				marginLeft:"+=150px"
+			},500);
+		
+		});*/
+		
+	//-------SEGUNDA-PARTE-VIDEO-48----
+	$("img").mouseover(function(){
+			$(this).animate(
+			{
+				opacity:1
+			},250
+			);
+		
+		
+		})
+		
+	$("img").mouseout(function(){
+			$(this).animate(
+			{
+				opacity:0.5
+			},250
+			);
+		
+		
+		})
+	
+	
+});
+
+
+</script>
+</head>
+
+<body>
+<!------------------------PRIMERA-PARTE-VIDEO-48--------------------->
+<!--<img src="imgs/coche.png" width="220" height="200" id="imagen"> -->
+
+<!------------------------SEGUNDA-PARTE-VIDEO-48--------------------->
+<img src="imgs/1.jpg" width="300" height="200" id="imagen">
+
+</body>
+</html>

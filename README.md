@@ -47,7 +47,7 @@ clases javascript
 <li>VIDEO 44 evento_toggle.html</li>
 <li>VIDEO 45 faq.html</li>
 <li>VIDEO 46 funcion_bind.html</li>
-<li>VIDEO 47</li>
+<li>VIDEO 47 video47.html</li>
 <li>VIDEO 48</li>
 <li>VIDEO 49</li>
 <li>VIDEO 50</li>
