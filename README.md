@@ -48,8 +48,36 @@ clases javascript
 <li>VIDEO 45 faq.html</li>
 <li>VIDEO 46 funcion_bind.html</li>
 <li>VIDEO 47 video47.html</li>
-<li>VIDEO 48</li>
-<li>VIDEO 49</li>
-<li>VIDEO 50</li>
+<li>VIDEO 48 prueba_animacion.html, pruba_animacion2.html</li>
+<li>VIDEO 49 Prueba_anidadas.html</li>
+<li>VIDEO 50 animacion_final.html</li>
+<li>VIDEO 51 preloader_I.html, preloader_II.com</li>
+<li>VIDEO 52 Fotos con FancyBox.html</li>
+<li>VIDEO 53</li>
+<li>VIDEO 54</li>
+<li>VIDEO 55</li>
+<li>VIDEO 56</li>
+<li>VIDEO 57</li>
+<li>VIDEO 58</li>
+<li>VIDEO 59</li>
+<li>VIDEO 60</li>
+<li>VIDEO 61</li>
+<li>VIDEO 62</li>
+<li>VIDEO 63</li>
+<li>VIDEO 64</li>
+<li>VIDEO 65</li>
+<li>VIDEO 66</li>
+<li>VIDEO 67</li>
+<li>VIDEO 68</li>
+<li>VIDEO 69</li>
+<li>VIDEO 70</li>
+<li>VIDEO 71</li>
+<li>VIDEO 72</li>
+<li>VIDEO 73</li>
+<li>VIDEO 74</li>
+<li>VIDEO 75</li>
+<li>VIDEO 76</li>
+<li>VIDEO 77</li>
+<li>VIDEO 78</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
