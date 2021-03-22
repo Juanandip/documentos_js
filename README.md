@@ -53,8 +53,8 @@ clases javascript
 <li>VIDEO 50 animacion_final.html</li>
 <li>VIDEO 51 preloader_I.html, preloader_II.com</li>
 <li>VIDEO 52 Fotos con FancyBox.html</li>
-<li>VIDEO 53</li>
-<li>VIDEO 54</li>
+<li>VIDEO 53 prueba_links.html, prueba_ventanas_emergentes.html</li>
+<li>VIDEO 54 iframe_1.html</li>
 <li>VIDEO 55</li>
 <li>VIDEO 56</li>
 <li>VIDEO 57</li>
