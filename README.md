@@ -55,10 +55,10 @@ clases javascript
 <li>VIDEO 52 Fotos con FancyBox.html</li>
 <li>VIDEO 53 prueba_links.html, prueba_ventanas_emergentes.html</li>
 <li>VIDEO 54 iframe_1.html</li>
-<li>VIDEO 55</li>
-<li>VIDEO 56</li>
-<li>VIDEO 57</li>
-<li>VIDEO 58</li>
+<li>VIDEO 55 pagina_links_fancy.html</li>
+<li>VIDEO 56 template.html, css2, js</li>
+<li>VIDEO 57 formularios_I.html</li>
+<li>VIDEO 58 formularios_I.html</li>
 <li>VIDEO 59</li>
 <li>VIDEO 60</li>
 <li>VIDEO 61</li>
