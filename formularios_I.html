@@ -68,6 +68,37 @@ h1{
 			
 		});
 		
+		//-------------PRIMERA-PARTE-VIDEO-60-------------------
+		
+		$(":radio").click(function(){
+			//alert("Has hecho click en el botón radio");
+			//alert($(this).val());
+		});
+		
+		var miArray=new Array();
+		var i=0;
+		
+		$(":checkbox").click(function(){
+			
+			miArray[i]=$(this).val();
+			//alert("Posición " + i + " " + miArray[i]);
+			$("#las_aficiones").append(miArray[i]).append("<br>");
+			i++;
+			
+			//alert("Has hecho click en el botón radio");
+			//alert($(this).val());
+			
+		});
+		
+		/*$("#pais").click(function(){
+			alert("País de residencia " + $(this).val()); -> No funciona con "selects"
+		});*/
+		
+		$("#pais").change(function(){
+			alert("País de residencia " + $(this).val());
+		});
+		
+		
 	});
 	
 	function comprobar_datos(){
@@ -182,6 +213,9 @@ h1{
     </tr>
   </table>
   </form>
+</div>
+
+<div id="las_aficiones">
 </div>
 
 </body>
