@@ -64,20 +64,20 @@ clases javascript
 <li>VIDEO 61 formularios_II.html</li>
 <li>VIDEO 62 formularios_II.html</li>
 <li>VIDEO 63 valida_form.html</li>
-<li>VIDEO 64</li>
-<li>VIDEO 65</li>
-<li>VIDEO 66</li>
-<li>VIDEO 67</li>
-<li>VIDEO 68</li>
-<li>VIDEO 69</li>
-<li>VIDEO 70</li>
-<li>VIDEO 71</li>
-<li>VIDEO 72</li>
-<li>VIDEO 73</li>
-<li>VIDEO 74</li>
-<li>VIDEO 75</li>
-<li>VIDEO 76</li>
-<li>VIDEO 77</li>
+<li>VIDEO 64 valida_form.html</li>
+<li>VIDEO 65 valida_form.html</li>
+<li>VIDEO 66 valida_form.html, ejercicio_validacion.html</li>
+<li>VIDEO 67 ejercicio_validacion.html</li>
+<li>VIDEO 68 TEORIA</li>
+<li>VIDEO 69 deportivas.html, externa.css, generales.html, principal.html, tiempo.html</li>
+<li>VIDEO 70 login.html, login.php</li>
+<li>VIDEO 71 login.html, login.php</li>
+<li>VIDEO 72 login.html, login.php</li>
+<li>VIDEO 73 login2.html, login2.php</li>
+<li>VIDEO 74 login2.html, login2.php</li>
+<li>VIDEO 75 google_maps.html, /jquery/jquery.gomap-1.3.2.min.js</li>
+<li>VIDEO 76 prueba.html</li>
+<li>VIDEO 77 prueba.html</li>
 <li>VIDEO 78</li>
 <ul>
 <h2>TOTAL: 7 HTML, 3 DIRECTORIOS, 1 JAVASCRIPT</h2>  
