@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>video 73</title>
+<title>Noticias varias</title>
 <link href="css/externa.css" rel="stylesheet">
 <style>
 #noticias li {
@@ -19,10 +19,12 @@
 	background-color: rgb(255,153,0);
 	color: white;
 }
-#contenidos_externos #noticia {
+#contenidos_externos{
 	margin-top: 10px;
 	padding: 20px;
-	border: 1px solid white;	
+	//border: 1px solid white;
+	color:#FFF;
+	font-weight:400;	
 }
 </style>
 <script src="Jquery/jquery-1.11.1.js"></script>
@@ -37,7 +39,7 @@ $(document).ready(function() {
 							 
 		var datosFormulario=$(this).serialize();
 							 
-		$.getJASON("login2.php", datosFormulario, procesarDatos);
+		$.getJSON("login2.php", datosFormulario, procesarDatos);
 		
 		return false;
 		
@@ -46,7 +48,17 @@ $(document).ready(function() {
 	
 	function procesarDatos(datos_devueltos){		
 		
-		$("#contenidos_externos").html(datos_devueltos.Edad);
+		//----------------PRIMERA-PARTE-VIDEO-73---------------
+		//$("#contenidos_externos").html("<p>La edad es: " + datos_devueltos.Edad + "<p>");
+		//----------------SEGUNDA-PARTE-VIDEO-73---------------
+		//$("#contenidos_externos").html("<p>El apellido es: " + datos_devueltos.Apellido + "<p>");
+		
+		//----------------PRIMERA-PARTE-VIDEO-74---------------
+		var informacion="<p> Nombre: " + datos_devueltos.Nombre + "</p>";
+		informacion+= "<p> Apellido: " + datos_devueltos.Apellido + "</p>";
+		informacion+= "<p> Edad: " + datos_devueltos.Edad + "</p>";
+		
+		$("#contenidos_externos").html(informacion);
 				
 	}
 	
